@@ -1,4 +1,11 @@
 # DIY Writer Decks (Mobile Friendly)
+## 2015-04-26: ["The Ambition Box" (AKA the Write-O-Tron)](https://www.youtube.com/watch?v=2bwOnDp5z1Q) by Giando Sigurani
+* Hardware: Raspberry PI
+* Software: Raspian, LibreOffice Writer
+* Case: wood
+
+[<img src="https://i.ytimg.com/vi/2bwOnDp5z1Q/maxresdefault.jpg">](https://i.ytimg.com/vi/2bwOnDp5z1Q/maxresdefault.jpg)
+
 ## 2018-01-30: [Ultimate Writer](https://github.com/picnoir/ultimate-writer) by NinjaTrappeur
 * Hardware: Raspberry PI 3B, Waveshare E-ink
 * Software: Raspian, Ultimate Writer open software
