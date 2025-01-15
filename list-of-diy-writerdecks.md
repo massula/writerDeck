@@ -8,6 +8,7 @@ If the table below looks awful, try the [mobile version](list-of-diy-writerdecks
 
 | Date | Name | Details | Image |
 | ---- | ---- | ---- | ---- |
+| 2015-04-26 | ["The Ambition Box" (AKA the Write-O-Tron)](https://www.youtube.com/watch?v=2bwOnDp5z1Q) by Giando Sigurani | Hardware: Raspberry PI; Software: Raspian, LibreOffice Writer; Case: wood | [<img src="https://i.ytimg.com/vi/2bwOnDp5z1Q/maxresdefault.jpg">]([/images/diy/UltimateWriter.jpg](https://i.ytimg.com/vi/2bwOnDp5z1Q/maxresdefault.jpg)) |
 | 2018-01-30 | [Ultimate Writer](https://github.com/picnoir/ultimate-writer) by NinjaTrappeur | Hardware: Raspberry PI 3B, Waveshare E-ink; Software: Raspian, Ultimate Writer open software; Case: wood | [<img src="images/diy/UltimateWriter.jpg">](/images/diy/UltimateWriter.jpg) |
 | 2019-03-22 | [SPUDwrite](https://spectrum.ieee.org/write-without-distraction-with-this-diy-eink-typewriter) by Lucian Copeland | Hardware: STMicroelectronics Cortex-M4 processor, E-ink, LCD, thermal printer; Software: Software: Mbed firmware, custom Arduino code; Case: wood | [<img src="images/diy/SPUDwrite.jpg">](/images/diy/SPUDwrite.jpg) |
 | 2020-12-14 | [FeatherQuill](https://www.instructables.com/FeatherQuill-34-Hours-of-Distraction-Free-Writing/) by CameronCoward | Hardware: Raspberry Pi Zero W, ELECTROW 5 Inch touch screen; Software: DietPi, WordGrinder; Case: 3D printed | [<img src="images/diy/FeatherQuill.jpg">](/images/diy/FeatherQuill.jpg) |
